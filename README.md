@@ -4,7 +4,7 @@ A sophisticated web application designed to streamline the cooking experience th
 
 ---
 
-https://tehila6791-cpu.github.io/Recipes/
+https://tehila6791-cpu.github.io/Recipes
 
 ---
 
